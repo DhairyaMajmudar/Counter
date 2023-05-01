@@ -1,0 +1,50 @@
+body{
+    background-color: lightblue;
+    color: #333;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    height: 100vh; 
+}
+
+h2,h1{
+    font-size: 60px;
+    color:#333;
+}
+
+#increment{
+    position: relative;
+    bottom:40px;
+    font-size: 22px;
+    color: aliceblue;
+    background-color: green;
+    border: 2px #000 double;
+    border-radius: 5px;
+}
+
+#reset{
+    position: relative;
+    bottom:40px;
+    font-size: 22px;
+    color: aliceblue;
+    background-color: red;
+    border: 2px #000 double;
+    border-radius: 5px;
+}
+
+#save{
+    position: relative;
+    bottom:40px;
+    font-size: 22px;
+    color: black;
+    background-color: yellow;
+    border: 2px #000 double;
+    border-radius: 5px;
+}
+
+p{
+    color: #333;
+    font-size: 42px;
+    font-style:oblique;
+}
